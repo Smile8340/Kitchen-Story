@@ -37,7 +37,7 @@ Angular: used in the front-end side to build modern single-page applications
 Spring Boot: used in the back-end side to create the REST API and retrieve data from a database.
 HTML/CSS: to create and format the content of the pages.
 Bootstrap: to use some CSS and JavaScript designs.
-Maven: to manage the project.
+Maven: to manage the project. 
 Visual Studio Code: to write and run the Angular code.
 IntelliJ: to write and run the Spring Boot code.
 phpMyAdmin: to administrate and manage the database manually.
